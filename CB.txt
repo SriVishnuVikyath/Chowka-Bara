@@ -1,0 +1,31 @@
+Chowka bhara normally has a 7x7 square board and 
+four players.Each player have 4 pawns.
+Each player takes a turn to roll 
+the cowrie shells.
+• 3 inverted, 1 as is - Move 1 square 
+• 2 inverted, 2 as is - Move 2 squares 
+• 1 inverted, 3 as is - Move 3 squares 
+• 4 as is Chamma - Move 4 squares 
+• 4 inverted Ashta - Move 8 squares
+Casting 4 or 8 gives the player an 
+additional turn,which can continue until 
+that player rolls a number other than 4 or 8.
+1.The player needs to be able to smartly choose a pawn to 
+move, so that it optimizes their chance of winning the game.
+2."Hit": Pawns of two players cannot exist in the same 
+square, other than a "Safe" square, which are marked with 
+an X in the figure.So if the pawn of player X lands on the 
+same square of a pawn of player Y, then player X has "hit" 
+player Y. Player Y's pawn is returned to its starting square 
+and this pawn needs to start over.So if the pawn of player X 
+lands on the same square of a pawn of player Y, then player X 
+has "hit" player Y. Player Y's pawn is returned to its starting 
+square and this pawn needs to start over.
+•You have to press 'Space' to roll the dice.
+•You have to select the pawn using the cursor that you want 
+to move to the new location.
+•You have to input your name when you first enter the 
+game,ur id will be created u can use your id everytime 
+if u want to replay any game that u played any time, 
+and also you can also watch it.
+
